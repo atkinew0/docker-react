@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        EYE THere
+        I was changed on the feature branch
       </div>
     );
   }
